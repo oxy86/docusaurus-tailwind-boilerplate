@@ -1,6 +1,6 @@
 # Docusaurus 2 boilerplate with TailwindCSS
 
-[![example](https://github.com/oxy86/docusaurus-tailwind-boilerplate/raw/main/static/img/screenshot.png)](#)
+[![example](https://github.com/oxy86/docusaurus-tailwind-boilerplate/raw/main/static/img/screenshot.png)](https://oxy86.github.io/docusaurus-tailwind-boilerplate/)
 
 This is a Docusaurus 2 boilerplate featuring Tailwind CSS, support for math/equations with KaTeX, diagrams with Mermaid, Animation on Scroll with AOS and more... [Docusaurus 2](https://docusaurus.io/) is a modern static website generator.
 
