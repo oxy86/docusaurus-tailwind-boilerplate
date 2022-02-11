@@ -82,17 +82,17 @@ const config = {
         /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
             announcementBar: {
-                id: 'new_version_rc.1',
+                id: 'new_version_0.1.0',
                 content:
-                    'Version 1.0.0-rc.1 is out! 🎉 Check the <a target="_blank" rel="noopener noreferrer" href="/docs/quickstart">quickstart</a> to get started!',
+                    'Version 0.1.0 is out! 🎉 Check the <a target="_blank" rel="noopener noreferrer" href="/docs/quickstart">quickstart</a> to get started!',
                 backgroundColor: '#FF5B79',
                 textColor: 'black',
                 isCloseable: true,
             },
 
             colorMode: {
-                defaultMode: 'dark',
-                respectPrefersColorScheme: false,
+                defaultMode: 'light',
+                respectPrefersColorScheme: true,
             },
             metadata: [
                 { name: 'keywords', content: 'some keywords' },
