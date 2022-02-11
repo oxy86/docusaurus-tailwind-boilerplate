@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_tailwind_boilerplate=self.webpackChunkdocusaurus_tailwind_boilerplate||[]).push([[632],{93088:function(e){e.exports=JSON.parse('{"permalink":"/docusaurus-tailwind-boilerplate/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
