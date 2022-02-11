@@ -13,8 +13,8 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary bg-blue-600', styles.heroBanner)}>
       <div className="container">
         <h1 className="hero__title text-5xl text-center font-bold w-100">{siteConfig.title}</h1>
-        <p className="hero__subtitle text-red-600">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
+        <p className="hero__subtitle text-white-600">{siteConfig.tagline}</p>
+        <div className={styles.nostyle}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
